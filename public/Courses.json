@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction to Web Development",
+    "image": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613",
+    "description": "Learn the fundamentals of web development and build your own websites. This course covers HTML, CSS, and JavaScript.",
+    "credit_hours": 7,
+    "price": 49.99
+  },
+  {
+    "id": 2,
+    "title": "Data Science Fundamentals",
+    "image": "https://images.unsplash.com/photo-1542744173-05336fcc7ad4",
+    "description": "Explore the world of data science, including data analysis, machine learning, and data visualization techniques.",
+    "credit_hours": 10,
+    "price": 79.99
+  },
+  {
+    "id": 3,
+    "title": "Mastering the Art of Digital Marketing",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f",
+    "description": "Master comprehensive digital marketing strategies, including SEO, social media marketing, email marketing, and content creation.",
+    "credit_hours": 5,
+    "price": 64.99
+  },
+  {
+    "id": 4,
+    "title": "Fundamentals of Graphic Design",
+    "image": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5",
+    "description": "Learn the essentials of graphic design, including design principles, Adobe Photoshop, and Adobe Illustrator.",
+    "credit_hours": 8,
+    "price": 59.99
+  },
+  {
+    "id": 5,
+    "title": "Crafting Mobile Apps Skillfully",
+    "image": "https://cdn.pixabay.com/photo/2020/05/18/16/17/social-media-5187243_1280.png",
+    "description": "Build mobile apps for iOS and Android using React Native and Flutter. Start creating your own apps today!",
+    "credit_hours": 7,
+    "price": 89.99
+  },
+  {
+    "id": 6,
+    "title": "Artificial Intelligence Basics",
+    "image": "https://cdn.pixabay.com/photo/2018/05/08/08/44/artificial-intelligence-3382507_1280.jpg",
+    "description": "Explore the fundamentals of artificial intelligence, including neural networks, deep learning, and AI applications.",
+    "credit_hours": 9,
+    "price": 69.99
+  },
+  {
+    "id": 7,
+    "title": "Photography for Beginners",
+    "image": "https://images.unsplash.com/photo-1486916856992-e4db22c8df33",
+    "description": "Begin your photography journey with this beginner's course. Learn camera basics, composition, and editing.",
+    "credit_hours": 3,
+    "price": 39.99
+  },
+  {
+    "id": 8,
+    "title": "Fundamentals of Business Finance",
+    "image": "https://images.unsplash.com/photo-1603202662747-00e33e7d1468",
+    "description": "Gain a solid understanding of business finance, financial statements, and investment strategies.",
+    "credit_hours": 2,
+    "price": 59.99
+  },
+  {
+    "id": "9",
+    "title": "Creative Writing Workshop",
+    "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173",
+    "description": "Hone your creative writing skills with this workshop. Explore various writing styles and storytelling techniques.",
+    "credit_hours": 1,
+    "price": 49.99
+  }
+]
